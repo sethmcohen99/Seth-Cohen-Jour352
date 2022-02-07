@@ -1,3 +1,4 @@
+/*styles for my resume*/
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
@@ -5,6 +6,7 @@ body {
   font-weight: 400;
 }
 
+/*this chamges the font, color, and aligns and transforms the text*/
 h1{
   font-size: 3em;
   color:#33485e;
@@ -12,16 +14,19 @@ h1{
   text-align: center;
 }
 
+/*this hides the image display*/
 img{
   display: none;
 }
 
+/*this transforms the text, font size, and color*/
 b{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
 }
 
+/*this changes the font size, text, background color, font color and font weight*/
 h2{
   font-size:1.5em;
   text-transform: uppercase;
@@ -30,22 +35,26 @@ h2{
   font-weight: 400;
 }
 
+/*this chamges the font size and the weight*/
 h3{
   font-size:1.5em;
   font-weight: 600;
 }
 
+/*this changes the font weight and font size*/
 h4{
   font-weight: 400;
   font-size: 1.5em;
 }
 
+/*this changes the font weight, size and style*/
 h5{
   font-weight: 400;
   font-size: 1em;
   font-style: italic
 }
 
-li{
+/*this changes the font size of the unordered lists*/
+ul li{
   font-size: 1em;
 }
