@@ -24,10 +24,13 @@ img{
 }
 
 /*this transforms the text, font size, and color*/
-b{
+#title{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px 0 0 0;
 }
 
 /*this changes the font size, text, background color, font color and font weight*/
@@ -75,4 +78,19 @@ ul li{
 
 .menu li{
   display: inline;
+}
+
+#degrees{
+  margin: 5px 0 0 0;
+}
+
+#do{
+  margin: 5px 0 0 0;
+}
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
