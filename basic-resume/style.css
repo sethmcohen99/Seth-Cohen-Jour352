@@ -43,22 +43,23 @@ b{
 }
 
 /*this chamges the font size and the weight*/
-h3{
+.jobtitle{
   font-size:1.5em;
   font-weight: 600;
 }
 
 /*this changes the font weight and font size*/
-h4{
+.organization{
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 /*this changes the font weight, size and style*/
-h5{
+.date{
   font-weight: 400;
   font-size: 1em;
-  font-style: italic
+  font-style: italic;
+  margin-top: 2px;
 }
 
 /*this changes the font size of the unordered lists*/
