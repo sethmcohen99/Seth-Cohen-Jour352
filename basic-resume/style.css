@@ -37,6 +37,9 @@ b{
   background-color: #33485e;
   color: white;
   font-weight: 400;
+  margin: 20px 0 10px 0;
+  width: 70%;
+  min-width: 300px;
 }
 
 /*this chamges the font size and the weight*/
